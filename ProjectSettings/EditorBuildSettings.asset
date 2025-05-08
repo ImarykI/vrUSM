@@ -6,7 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/1 Start Scene.unity
+    guid: d77c87b20b3d31c4c94434347fc1262b
+  - enabled: 1
+    path: Assets/Scenes/2 SpaceShip Scene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 48dd2902568a9c048a58dbf6b4a94ed2,
